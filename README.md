@@ -31,6 +31,9 @@ A curated list of Docker images to base your Actions off of. Your favorite langu
 
 ## ✨ Highlighted Actions
 
+### [slack-bot-action](https://github.com/krider2010/slack-bot-action)
+Wraps the Slack API to post to channels, private groups, and DMs.
+
 ### [Upload to Release](https://github.com/JasonEtco/upload-to-release)
 Uploads any file to a new release.
 
@@ -54,3 +57,6 @@ Add labels to Pull Request based on matched file patterns.
 
 ### [Telegram for GitHub Actions](https://github.com/appleboy/telegram-action)
 Send a Telegram notification message.
+
+### [Modified File Filter Action](https://github.com/nholden/modified-file-filter-action)
+Halts a workflow unless a specified file has been modified.
