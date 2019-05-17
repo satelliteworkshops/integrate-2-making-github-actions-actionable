@@ -1,6 +1,6 @@
 # Making GitHub Actions actionable
 
-Thanks for attending our workshop at Satellite 2019! Here are some resources that we think will be helpful for you as you continue your journey to supercharge your workflow with GitHub Actions.
+Thanks for attending our workshop at Satellite 2019! Here are some resources that we think will be helpful for you as you continue your journey to supercharge your workflow with GitHub Actions. You can also [review an overview](workshop_overview.md) of the workshop.
 
 — [@krider2010](https://github.com/krider2010) and [@nholden](https://github.com/nholden)
 
