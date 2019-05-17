@@ -4,6 +4,11 @@ Thanks for attending our workshop at Satellite 2019! Here are some resources tha
 
 — [@krider2010](https://github.com/krider2010) and [@nholden](https://github.com/nholden)
 
+## 📺 Slides
+
+### [Making GitHub Actions Actionable](https://drive.google.com/file/d/1pASwTZNCax0fyWS_QHPIPin4wS_Og679/view?usp=sharing)
+Slides from the overview of GitHub Actions presented at the beginning of our workshop.
+
 ## 🛠 Tools
 
 ### [actions-toolkit](https://github.com/JasonEtco/actions-toolkit)
