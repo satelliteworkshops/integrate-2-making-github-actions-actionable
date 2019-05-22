@@ -7,9 +7,9 @@ First, we’ll create a new Action that will parse your issues and comments for 
 ## Create your Action
 
 1. Create a new public repository for your GitHub Action.
-1. Create a `Dockerfile` (**TODO**: Link to `Dockerfile` in the source repo) at the root of the repository. Give it access to JavaScript using the `node:slim` as the base image. Set the `ENTRYPOINT` to `/index.js`.
-1. Create a `package.json` (**TODO**: Link to `package.json` in the source repo) at the root of the repository. Include the dependencies your Action will use.
-1. Create a `index.js` (**TODO**: Link to `index.js` in the source repo) at the root of the repository. `require` the `actions-toolkit` library to get access to some great helpers for writing an Action in JavaScript. Specify which events you want the Action to respond to, and implement the logic to identify "/cc Slack" in issue bodies and comments and persist message data to the shared workspace.
+1. Create a [`Dockerfile`](https://github.com/krider2010/cc-slack-action/blob/master/Dockerfile) at the root of the repository. Give it access to JavaScript using the `node:slim` as the base image. Set the `ENTRYPOINT` to `/index.js`.
+1. Create a [`package.json`](https://github.com/krider2010/cc-slack-action/blob/master/package.json) at the root of the repository. Include the dependencies your Action will use.
+1. Create a [`index.js`](https://github.com/krider2010/cc-slack-action/blob/master/index.js) at the root of the repository. `require` the `actions-toolkit` library to get access to some great helpers for writing an Action in JavaScript. Specify which events you want the Action to respond to, and implement the logic to identify "/cc Slack" in issue bodies and comments and persist message data to the shared workspace.
 
 ## Create your workflow
 
